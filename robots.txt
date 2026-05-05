@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pg7-guides.github.io/pg7-guides/sitemap.xml
